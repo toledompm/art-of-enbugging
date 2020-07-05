@@ -25,9 +25,9 @@ Acidentes de trem no mundo real deixam uma trilha de vagões descarrilhados um e
   //getters e setters
   }
 ```
-Train Wreck - Code Smell: https://devcards.io/train-wreck
-Train Wreck Pattern – A much improved implementation in Java 8: https://dzone.com/articles/train-wreck-pattern-%E2%80%93-much
-How many train wrecks are lurking in your code?: http://www.thinkcode.se/blog/2011/12/30/how-many-train-wrecks-are-lurking-in-your-code
+Train Wreck - Code Smell: https://devcards.io/train-wreck  
+Train Wreck Pattern – A much improved implementation in Java 8: https://dzone.com/articles/train-wreck-pattern-%E2%80%93-much  
+How many train wrecks are lurking in your code?: http://www.thinkcode.se/blog/2011/12/30/how-many-train-wrecks-are-lurking-in-your-code  
 
 ## Shy Code
 Shy Codes ou “códigos tímidos” são códigos que não revelam muito de si para outros e não fala a não ser que seja necessário. Portanto, as classes só compartilham o que precisam compartilhar e longas correntes de chamados são encapsulados em métodos com nomes explícitos. Quando um código não é tímido, ocorrem acoplamentos que você não deseja. Entre eles os mais comuns são acoplamento estático, dinâmico, de domínio e temporal. 
